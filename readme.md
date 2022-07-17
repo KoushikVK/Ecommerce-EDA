@@ -1,4 +1,4 @@
-# ECOMMERCE Exploratory Data Analysis
+# ECOMMERCE Exploratory Data Analysis By Koushik V
 ## **PROJECT SYNOPSIS**
 > In this project, the EDA protocol for an ecommerce dataset has been shown. The analysis reveals some insightful information for this ecommerce retailer operating in the UK, so do check it out!
 ___
@@ -260,6 +260,4 @@ plt.show()
 ___
 ## **SUMMARY AND REFLECTION**
 This is an exploratory data analysis project which involves some fundamental concepts of EDA and data preprocessing (also known as data wrangling) in Python using an IDE. 
-> All rights related to the published dataset are reserved with the issuing authorities of the same (Kaggle).
 
-> The project may be used only as a learning resource; no part of the same must be copied for any other usage whatsover.
